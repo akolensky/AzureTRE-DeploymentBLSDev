@@ -4,7 +4,7 @@ This project is intended to assist the deployment of the Azure TRE project in re
 
 See the [Azure TRE documentation](https://microsoft.github.io/AzureTRE/) which includes detailed documentation and best practices to ensure a successful deployment and to assist you with customizing your own templates using this repository.
 
-## Contents
+## Contentss
 
 In this project you will find:
 
