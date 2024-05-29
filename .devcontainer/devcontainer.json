@@ -11,8 +11,8 @@
       // 		export DOCKER_GROUP_ID=$(getent group docker | awk -F ":" '{ print $3 }')
       "DOCKER_GROUP_ID": "${localEnv:DOCKER_GROUP_ID}",
       "INTERACTIVE": "true",
-      "OSS_REPO": "microsoft/AzureTRE",
-      "OSS_VERSION": "v0.17.0"
+      "OSS_REPO": "Barts-Life-Science/AzureTRE",
+      "OSS_VERSION": "master"
     }
   },
   "runArgs": [
